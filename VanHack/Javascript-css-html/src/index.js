@@ -1,5 +1,4 @@
-mapboxgl.accessToken =
-    "pk.eyJ1Ijoic2FpbXVzIiwiYSI6ImNrOGxwZW9jcjBmMWYzZXB6YWt0c3R6YWsifQ.rnWjb38V_F4U0epS2BK15Q";
+mapboxgl.accessToken = "ADD_ACCESS_TOKEN";
 
 const Configs = {
     camera: {
